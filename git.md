@@ -1,0 +1,13 @@
+## 简介
+- 版本控制系统
+    - 集中式
+        - SVN
+    - 分布式
+        - git
+- git
+    - 配置
+        - `git config --global user.name(user.email) <name>(<email>)` 
+    - 版本库：只能跟踪文本文件的改动
+        - 创建：`git init`
+        - 添加：`git add <filename>`
+        - 提交：`git commit -m <message>`
