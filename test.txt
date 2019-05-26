@@ -1,1 +1,1 @@
-test uo
+test uo up down
