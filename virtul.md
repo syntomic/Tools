@@ -1,0 +1,10 @@
+- 虚拟技术
+    - 虚拟计算机 ![virtual](PNG/virtual.PNG)
+        - KVM 
+        - Virtualbox ![Internet](PNG/internet.PNG)
+        - Vmwares
+    - 虚拟操作系统
+        - docker ![docker](PNG/docker.PNG)
+            - client：`docker`
+            - docker_host: container+images
+            - registry: images

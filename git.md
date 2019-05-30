@@ -73,7 +73,7 @@
             - 推送全部未推送过的本地标签：`git push origin --tags`
             - 删除一个本地标签：`git tag -d <tagname>git tag -d <tagname>`
             - 删除远程标签：`git push origin :refs/tags/<tagname>`
-- Github和Gitee
+- GitHub和Gitee
     - `git remote add gitee git@gitee.com:liaoxuefeng/learngit.git`
     - `git remote add github git@github.com:michaelliao/learngit.git`
 - 自定义：`git config --global color.ui true`
