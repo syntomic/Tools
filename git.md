@@ -3,7 +3,7 @@
     - 集中式
         - SVN
     - 分布式
-        - git
+        - git: 文件名不区分大小写
 ## Git
 - 配置：`git config --global user.name(user.email) <name>(<email>)` 
 - 版本库：只能跟踪文本文件的改动
